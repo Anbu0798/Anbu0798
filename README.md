@@ -1,6 +1,6 @@
 
 - 👋 Hi, I'm Anbumanivel
-- 🎓 I'm currently pursuing my Master's degree at the University of Toronto. Specializing in Data Science and Machine Learning.
+- 🎓 Recent Master's graduate from the University of Toronto, specializing in Data Science and Machine Learning.
 - 💼 I’m interested in working in the fields of Data Science/Analytics, Big Data, Deep Learning, and Machine learning in any engineering discipline.
 - 🚀 Enthusiastic about coding challenges and exploring new technologies.
 - 📫 How to reach me: anbumanivel.mohansuganthi@mail.utoronto.ca
